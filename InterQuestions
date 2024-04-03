@@ -1,0 +1,2 @@
+Q) What is the difference between the pivot_table and the groupby
+A) The groupby method is generally enough for two-dimensional operations, but pivot_table is used for multidimensional grouping operations.
