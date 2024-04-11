@@ -13,3 +13,10 @@ def is_pal(str):
     return c == 0
 
 print(is_pal('SSSS'))
+
+## method 2
+str = '9889'
+if(str == str[::-1] ):
+    print(str , ': is Palendrome')
+else:
+    print(str,":  is not Palendrome")
