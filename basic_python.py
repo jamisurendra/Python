@@ -36,5 +36,3 @@ count = 0
 while count < 121:
     print(count)
     count += 5
-
-
