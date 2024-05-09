@@ -1,0 +1,16 @@
+➡ Managed Tables:
+
+⭕ A managed table is like a bookshelf that belongs to the library. The library staff is responsible for arranging the books on the shelves, organizing them by genre or author,
+and ensuring they are in good condition.
+The books are kept within the library's premises, and readers can easily find them by browsing the shelves.
+⭕ Similarly, in a managed table, the database system takes care of storing the data in its own storage system, organizing it in a structured format,
+and managing its lifecycle. The data is kept within the database's control, and users can access it through queries and analysis.
+
+➡ External Tables:
+
+⭕ An external table is like a book borrowed from another library or owned by a reader. 
+The book is not stored on the library's shelves but is instead kept outside in the reader's home or another library. 
+The library keeps a record of the book's details, such as its title, author, and borrower, but the book itself is not physically present in the library.
+⭕ Similarly, in an external table, the database system maintains only the metadata or information about the data, such as its structure and location,
+but the actual data resides outside the database's control, in an external storage location. Users can still access and query the data,
+but it remains separate from the database system's storage.
