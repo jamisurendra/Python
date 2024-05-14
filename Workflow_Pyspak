@@ -1,0 +1,13 @@
+Workflow 1: Convert a CSV File into a Partitioned Parquet Table
+Write a CSV file to a platform data container.
+
+Convert the CSV file into a Parquet table.
+
+Run SQL queries on the data in Parquet table.
+
+Workflow 2: Convert a Parquet Table into a NoSQL Table
+Write a Parquet table to a platform data container.
+
+Convert the Parquet table into a NoSQL table.
+
+Run SQL queries on the data in NoSQL table.
